@@ -193,8 +193,7 @@
 				TargetAttributes = {
 					9D8263D91D9F28C000CFE782 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = S7Z3AFYBAU;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					9D8263ED1D9F28C000CFE782 = {
 						CreatedOnToolsVersion = 8.0;
@@ -413,7 +412,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S7Z3AFYBAU;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.uw.wtmenten.Hello-iOS";
@@ -426,7 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = S7Z3AFYBAU;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.uw.wtmenten.Hello-iOS";
